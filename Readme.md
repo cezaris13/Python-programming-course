@@ -31,7 +31,9 @@ More about this task can be read [here](/Assignment%201.pdf)
 
 ## Images
 ![image](/images/temperature_terminal.png)
+
 *Simple terminal based data visualization*
 
 ![image](/images/temperature_graphs.png)
+
 *Graphical mode of the iot device simulator*
